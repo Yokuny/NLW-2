@@ -1,7 +1,7 @@
 ### How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/Yokuny/NLW-2.git
+>> git clone https://github.com/Yokuny/NLW-2.git
 ```
 ### Install API
 
@@ -27,7 +27,7 @@ The application is in http://localhost:3000/
 >> npm install || or || yarn install
 
 # And now, just run, with
-$ npm install || or || yarn start
+>> npm install || or || yarn start
 ```
 acess http://localhost:3000/ and there will be.
 
@@ -43,7 +43,7 @@ When you install, export us git-hub project and open the project folder.
 >> npm install || or || yarn install
 
 # And now you can run the aplication
-$ npm install || or || yarn start
+>> npm install || or || yarn start
 ```
 
 A education project made by [Rocketseat](https://app.rocketseat.com.br/) and taught at an online event.
