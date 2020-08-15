@@ -46,5 +46,7 @@ When you install, export us git-hub project and open the project folder.
 >> npm install || or || yarn start
 ```
 
-A education project made by [Rocketseat](https://app.rocketseat.com.br/) and taught at an online event.
-Thanks to the guys!!
+
+
+## A education project made by [Rocketseat](https://app.rocketseat.com.br/) and taught at an online event.
+##### Thanks to the guys!!
